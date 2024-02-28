@@ -5,7 +5,7 @@ This project conducts an Exploratory Data Analysis (EDA) of an inventory supply 
 ![Schemas](https://github.com/Pratham0311Arya/Inventory-Chain-Analysis/assets/143388323/246850dd-c99e-4bd1-b7d4-b1ac998b9136)
 
 
-### Queries
+### Some of the question which can be answered through the project
 - Finding all the orders which have been ordered more than ones
 - Finding out the products which were unsold
 - Displaying what each person bought and on which date
